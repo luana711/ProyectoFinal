@@ -1,0 +1,12 @@
+div{
+    padding: 20px;
+    background-color: #4a2164;
+    color: white;
+}
+.container{
+    width: auto;
+}
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}

@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+body { 
+    background-color:  #2E0249;
+}
+.borde{
+    width: 98%;
+    border:5px outset #450d68;
+   border-radius:22px;
+   align-items: center;
+   margin: 0px auto;
+}
+
+.title{
+    border-bottom: 2px solid white; 
+}

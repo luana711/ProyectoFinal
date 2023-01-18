@@ -1,0 +1,11 @@
+div{
+    padding: 20px;
+    background-color: #2E0249;
+    color: white;
+}
+footer{
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
